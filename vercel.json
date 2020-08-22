@@ -1,0 +1,7 @@
+{
+    "functions": {
+        "pages/api/**": {
+            "runtime": "@vercel/node@1.7.4"
+        }
+    }
+}
